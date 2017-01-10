@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Git远程仓库分享一个markdownpad2的授权key"
+title:  "分享一个markdownpad2的授权key"
 date:   2017-01-02 14:25:20 +0700
 categories: [git]
 ---

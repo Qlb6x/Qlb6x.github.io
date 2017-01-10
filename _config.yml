@@ -1,4 +1,4 @@
-title: 刘顺裕
+title: Leslie
 description: My Personal Stack Problems
 author: Leslie
 github: https://github.com/Qlb6x
@@ -40,7 +40,7 @@ urls:
     - text: XML Feed
       url: /feed.xml
 
-url: "https://Ql6bx.github.io"
+url: "https://Qlb6x.github.io"
 baseurl: ""
 paginate: 20
 per_page: 20
