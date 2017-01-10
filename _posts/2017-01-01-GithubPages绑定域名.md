@@ -18,12 +18,6 @@ example.com
 <style> 
 .table-c table{border-right:1px solid #000;border-bottom:1px solid #000} 
 .table-c table td{border-left:1px solid #000;border-top:1px solid #000} 
-/* 
-css 注释： 
-只对table td设置左与上边框； 
-对table设置右与下边框； 
-为了便于截图，我们将css 注释说明换行排版 
-*/ 
 </style> 
 <div class="table-c"> 
 <table width="400" border="0" cellspacing="0" cellpadding="0"> 
