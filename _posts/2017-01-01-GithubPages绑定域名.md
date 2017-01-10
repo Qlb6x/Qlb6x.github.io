@@ -35,4 +35,4 @@ example.com
 <td>www</td> 
 <td>CNAME</td> 
 <td>username.github.io</td> 
-</table>
+</table></div>
