@@ -7,4 +7,4 @@
 
 #### Screenshot
 
-![Screenshot Post Page](https://http://139.129.117.12/img/1.jpg  "Screenshot Post Page")
+![Screenshot Post Page](http://139.129.117.12/img/1.jpg  "Screenshot Post Page")
