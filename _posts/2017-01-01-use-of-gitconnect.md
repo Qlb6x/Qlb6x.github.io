@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "use of gitconnect"
+date:   2017-01-01 18:34:10 +0700
+categories: [DNS, lsy]
+---
+
 #github解析域名
 
 ----------
