@@ -5,8 +5,8 @@ date:   2017-01-01 14:25:20 +0700
 categories: [git]
 ---
 
-### 1. 向Github Pages仓库中添加一个CNAME文件
-其中只能包含一个顶级域名
+### 1. CNAME文件
+向Github Pages仓库中添加一个CHAME文件，其中只能包含一个顶级域名
 
 ```
 example.com
