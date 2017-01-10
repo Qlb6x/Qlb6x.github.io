@@ -40,7 +40,7 @@ urls:
     - text: XML Feed
       url: /feed.xml
 
-url: "https://Qlb6x.github.io"
+url: "http://Qlb6x.com"
 baseurl: ""
 paginate: 20
 per_page: 20
