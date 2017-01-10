@@ -13,17 +13,14 @@ example.com
 ```
 
 2.向DNS配置中添加3条记录
-
-
 <style> 
-.table-c table{border-right:1px solid #000;border-bottom:1px solid #000} 
-.table-c table td{border-left:1px solid #000;border-top:1px solid #000} 
-</style> 
-<div class="table-c"> 
+table{border-right:1px solid #000;border-bottom:1px solid #000} 
+table td{border-left:1px solid #000;border-top:1px solid #000} 
+</style>  
 <table width="400" border="0" cellspacing="0" cellpadding="0"> 
 <tr> 
-<td width="105">@</td> 
-<td width="105">A</td> 
+<td width="80">@</td> 
+<td width="80">A</td> 
 <td width="112">192.30.252.153</td> 
 </tr> 
 <tr> 
