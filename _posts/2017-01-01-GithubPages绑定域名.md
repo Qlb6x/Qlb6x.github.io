@@ -5,14 +5,14 @@ date:   2017-01-01 14:25:20 +0700
 categories: [git]
 ---
 
-### **1. CNAME文件**
+### 1. CNAME文件
 向Github Pages仓库中添加一个CHAME文件，其中只能包含一个顶级域名
 
 ```
 example.com
 ```
 
-### **2. 向DNS配置中添加3条记录**
+### 2. 向DNS配置中添加3条记录
 <style> 
 table{border-right:1px solid #000;border-bottom:1px solid #000} 
 table td{border-left:1px solid #000;border-top:1px solid #000;padding:0px 0px 0px 10px} 
